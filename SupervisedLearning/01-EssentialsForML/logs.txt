@@ -1,0 +1,10 @@
+23-12-2024 06:54:21 - root - DEBUG - debug message
+23-12-2024 06:54:21 - root - ERROR - error message
+23-12-2024 06:54:21 - root - INFO - info message
+23-12-2024 06:54:21 - root - CRITICAL - critical message
+23-12-2024 06:54:21 - root - CRITICAL - fatal message
+23-12-2024 06:54:21 - root - WARNING - warning message
+23-12-2024 06:59:51 - Alpha - DEBUG - DEBUG messgae from class alpha
+23-12-2024 06:59:51 - Alpha - WARNING - WARNING message from class alpha
+23-12-2024 07:00:30 - Beta - DEBUG - DEBUG messgae from class beta
+23-12-2024 07:00:30 - Beta - WARNING - WARNING message from class beta
